@@ -13,4 +13,6 @@ dintre urmatoarele limbaje de programare:
 ## Descriere scurta laburi
 
 * lab01 - introducere in limbajul *Racket*;
+* lab02 - recursivitate pe stiva si pe coada;
+* lab03 - functii lambda si functionalele filter, foldl, foldr, map, apply
 
